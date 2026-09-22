@@ -1,0 +1,7 @@
+llama-3.1-8b: meta-llama/Llama-3.1-8B-Instruct
+llama-3.2-1b: meta-llama/Llama-3.2-1B-Instruct
+llama-3.2-3b: meta-llama/Llama-3.2-3B-Instruct
+llama-3.3-70b: meta-llama/Llama-3.3-70B-Instruct
+mistral-7b: mistralai/Mistral-7B-Instruct-v0.3
+mixtral-8x7b: mistralai/Mixtral-8x7B-Instruct-v0.1
+smollm2-135m: HuggingFaceTB/SmolLM2-135M-Instruct

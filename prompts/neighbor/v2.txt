@@ -1,0 +1,11 @@
+Given the following multi-hop question, decompose it into {query_set_size} simpler sub-questions that would help retrieve the necessary facts.
+
+Rules:
+1. Each sub-question should ask for ONE specific fact needed to answer the original question
+2. Keep entity names (people, places, titles) exactly as they appear in the original
+3. Do NOT change the subject of the question - stay focused on the same entities
+4. Sub-questions should retrieve bridging information (e.g., "Who directed X?" before "Where was that person born?")
+
+Original Question: {original_question}
+
+Generate {query_set_size} sub-questions (one per line):

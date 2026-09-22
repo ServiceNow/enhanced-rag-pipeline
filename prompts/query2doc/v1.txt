@@ -1,0 +1,5 @@
+Write a passage that answers the given query.
+
+Query: {original_question}
+
+Passage:

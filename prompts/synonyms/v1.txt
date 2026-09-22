@@ -1,0 +1,6 @@
+Given the following question, generate {query_set_size} variations using synonyms and different phrasings.
+Each variation should ask essentially the same thing but with different words.
+
+Original Question: {original_question}
+
+Generate {query_set_size} synonym-based variations (one per line):

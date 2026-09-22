@@ -1,0 +1,5 @@
+Given the following question, generate {query_set_size} comparative question(s) that compare the main subject with related alternatives.
+
+Original Question: {original_question}
+
+Generate {query_set_size} comparative question(s) (one per line):

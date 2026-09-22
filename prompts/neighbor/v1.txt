@@ -1,0 +1,6 @@
+Given the following question, generate {query_set_size} related neighbor questions at the same conceptual level.
+These should be sibling questions that explore similar aspects or related entities.
+
+Original Question: {original_question}
+
+Generate {query_set_size} neighbor questions (one per line):

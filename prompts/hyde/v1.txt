@@ -1,0 +1,5 @@
+Please write a passage to answer the question.
+
+Question: {original_question}
+
+Passage:
